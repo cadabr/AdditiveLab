@@ -1,0 +1,3 @@
+[submodule "3dPartyLibs/JUCE"]
+	path = 3dPartyLibs/JUCE
+	url = https://github.com/cadabr/JUCE.git
